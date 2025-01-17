@@ -1,2 +1,2 @@
-# leetcode-questions-with-tests
-LeetCode Questions with Unit Tests (no answers).
+# leetcode-offline
+LeetCode Offline: just questions with Unit Tests (no answers).

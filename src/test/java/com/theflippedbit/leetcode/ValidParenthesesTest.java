@@ -1,8 +1,8 @@
 package com.theflippedbit.leetcode;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ValidParenthesesTest {
@@ -11,15 +11,15 @@ public class ValidParenthesesTest {
     void isValid() {
         // case1
         String case1 = "()";
-        Assertions.assertTrue(ValidParentheses.isValid(case1));
+        assertTrue(ValidParentheses.isValid(case1));
 
         // case2
         String case2 = "()[]{}";
-        Assertions.assertTrue(ValidParentheses.isValid(case2));
+        assertTrue(ValidParentheses.isValid(case2));
 
         // case3
         String case3 = "(]";
-        Assertions.assertFalse(ValidParentheses.isValid(case3));
+        assertFalse(ValidParentheses.isValid(case3));
 
         // case4
         String case4 = "((([[[{{{}}}]]])))";

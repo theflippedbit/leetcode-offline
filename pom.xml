@@ -6,7 +6,7 @@
     <groupId>com.theflippedbit</groupId>
     <artifactId>leetcode-offline</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>interview-prep</name>
+    <name>leetcode-offline</name>
     <description>leetcode-offline</description>
 
     <properties>

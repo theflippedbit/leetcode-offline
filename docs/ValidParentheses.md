@@ -8,19 +8,19 @@ An input string is valid if:
 3. Every close bracket has a corresponding open bracket of the same type.
 
 **Example 1:**
-> Input: s = "()"
+> Input: s = "()"  
 > Output: true
 
 **Example 2:**
-> Input: s = "()[]{}"
+> Input: s = "()[]{}"  
 > Output: true
 
 **Example 3:**
-> Input: s = "(]"
+> Input: s = "(]"  
 >Output: false
 
 **Example 4:**
-> Input: s = "([])"
+> Input: s = "([])"  
 > Output: true
 
 **Constraints:**

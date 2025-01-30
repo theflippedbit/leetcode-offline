@@ -10,5 +10,6 @@ LeetCode Offline: just questions with Unit Tests. No answers, articles, or guide
 * [169. Majority Element](docs/MajorityElement.md) (Easy)
 * [217. Contains Duplicate](docs/ContainsDuplicate.md) (Easy)
 * [242. Valid Anagram](docs/ValidAnagram.md) (Easy)
+* [706. Design HashMap](docs/DesignHashMap.md) (Easy)
 * [1929. Concatenation of Array](docs/ConcatenationOfArray.md) (Easy)
 * [2404. Most Frequent Even Element](docs/MostFrequentEvenElement.md) (Easy)
